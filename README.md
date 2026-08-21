@@ -233,7 +233,7 @@ The project can be extended with additional features such as:
 
 ## 👨‍💻 Author
 
-**Light Yagami**
+**MANAN RAMI**
 
 This project was created as part of **Python programming practice** to strengthen fundamental programming and problem-solving skills.
 
